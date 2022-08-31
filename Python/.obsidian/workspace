@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a8fdfedc05ff1e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f9ddb95b45dc19",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Variables and Collections.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edc3da9b28350647",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fe9fd2076dfd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1722a20b11ba70b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "82d02a164e7e7b4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dcdf4b0d100ba8e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecb941e87beddf42",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a11509ed201cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd70e34c1b40a64d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Variables and Collections.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaa7be73ff2604e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Variables and Collections.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4b004d966dc8f39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80f9831e5f5081a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Variables and Collections.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "95f9ddb95b45dc19",
+  "lastOpenFiles": [
+    "Advaced.md",
+    "Python.md",
+    "Variables and Collections.md",
+    "Primitive Datatypes and Operators.md",
+    "Is Python interpreted or compiled.md",
+    "Multiple Inheritance.md",
+    "Classes.md",
+    "Inheritance.md",
+    "Modules.md",
+    "Functions.md"
+  ]
+}
